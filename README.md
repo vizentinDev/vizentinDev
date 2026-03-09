@@ -1,16 +1,80 @@
-## Hi there 👋
+# Hi, I'm Vinicius
 
-<!--
-**vizentinDev/vizentinDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer in progress, focused on building scalable cloud applications using modern technologies.
 
-Here are some ideas to get you started:
+Currently studying Backend Development and Cloud Engineering with the goal of working in Europe.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+- Backend development student
+- Focused on Node.js, TypeScript and Cloud
+- Learning Docker, AWS and Kubernetes
+- Interested in scalable systems and modern backend architecture
+- Long term goal: Backend / Cloud Developer in Europe
+
+---
+
+## Technologies I'm Studying
+
+Backend
+- Node.js
+- TypeScript
+- Express
+
+Databases
+- PostgreSQL
+- SQL
+
+Cloud & DevOps
+- Docker
+- AWS
+- CI/CD
+- Kubernetes (learning)
+
+Tools
+- Git
+- GitHub
+- Postman
+- Linux
+
+---
+
+## Current Roadmap
+
+- Backend development with Node.js
+- Database architecture with PostgreSQL
+- Containerization with Docker
+- Cloud deployment with AWS
+- CI/CD pipelines
+- Kubernetes fundamentals
+
+---
+
+## Featured Projects
+
+Here are some projects I built while studying backend and cloud development.
+
+- Authentication API with JWT
+- Task Manager API with PostgreSQL
+- Dockerized Node.js API
+- AWS deployed backend
+- CI/CD pipeline project
+
+---
+
+## Currently Learning
+
+- Cloud architecture
+- Scalable backend systems
+- Infrastructure as Code
+- Distributed systems basics
+
+---
+
+## Contact
+
+LinkedIn: (https://www.linkedin.com/in/vin%C3%ADcius-vizentin/)
+
+Email: (vizentinvinicius@outlook.com)
